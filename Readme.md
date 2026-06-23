@@ -2,4 +2,4 @@
 
 - Trae Refactoring, Restart monitoring automatically
   
-wget https://github.com/hojoonch/cRho4RM_Binary/releases/download/cRho4RM_V001_20260611/cRho4RM_V001_20260611.zip
+wget https://github.com/hojoonch/cRho4RM_Binary/releases/download/cRho4RM_bin/cRho4RM_bin.zip
